@@ -210,25 +210,7 @@ h1.first:before {
 	z-index: -1;
 	background-color: rgb(255, 187, 0) !important;
 }
-h1.second {
-	font-weight: 200;
-}
 
-h1.second span {
-	position: relative;
-	display: inline-block;
-	padding: 5px 10px ;
-	border-radius: 10px;
-	border-bottom: 1px solid mediumseagreen;
-}
-
-h1.second span:after {
-	content: '';
-	position: absolute;
-	bottom: calc(-100% - 1px);
-	margin-left: -10px;
-	display: block;
-	width: 100%; height: 100%;
-	border-radius: 10px;
-	border-top: 1px solid mediumseagreen;
+.card{
+box-shadow: 5px 3px 5px #e0e0e0;
 }
