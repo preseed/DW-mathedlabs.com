@@ -20,8 +20,8 @@ h6 {
 
 header.masthead {
   position: relative;
-  background-color: #343a40;
-  background: url("../img/slideshow.gif");
+  background-color: white;
+  
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
